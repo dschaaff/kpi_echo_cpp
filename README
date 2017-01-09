@@ -9,5 +9,5 @@ Expected output:
   	printf("Sent: %s\n", sent);
   	printf("Received: %s\n", received);
 
-    Build and run:
-      1) Provide this git URL into KWS and click 'Run'.
+Build and run:
+  1) Provide this git URL into KWS and click 'Run'.
