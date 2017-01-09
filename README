@@ -9,6 +9,5 @@ Expected output:
   	printf("Sent: %s\n", sent);
   	printf("Received: %s\n", received);
 
-Build and run:
-  1) Run 'make' in example application directory
-  2) Execute the compiled example code using './[example application]' in example application directory
+    Build and run:
+      1) Provide this git URL into KWS and click 'Run'.
